@@ -108,7 +108,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('https://i.pinimg.com/736x/08/e4/89/08e48988133cc6744a5ea46c7deb025b.jpg') bottom right no-repeat;
+    background: url('https://i.pinimg.com/736x/08/e4/89/08e48988133cc6744a5ea46c7deb025b.jpg) bottom right no-repeat;
     background-size: 180px 180px;
 }
 
